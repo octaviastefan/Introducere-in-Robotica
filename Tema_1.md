@@ -27,7 +27,7 @@
 <details> 
   <summary><b>Componente</b></summary>
   
-  ## Componente:
+  ## 
   
 
 -	4x LED-uri (pentru a simula procentul de încărcare)
