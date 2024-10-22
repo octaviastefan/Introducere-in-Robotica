@@ -49,7 +49,7 @@
 <details>
   <summary> <b> Schema electrica </b> </summary>
 
-  ## Schema electrica
+  ## Schema electrica realizata in Wokwi
   
   ![simulator_tema1_robotica](https://github.com/user-attachments/assets/6116f17b-0eff-48ef-bbf9-4a12f5fd52f8)
 
