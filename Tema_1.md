@@ -63,7 +63,9 @@
   ## Montajul implementat fizic:
 
 ![Poza1_robotica](https://github.com/user-attachments/assets/a186593f-3b6b-458d-8657-4b4aae3a52f3)
+
 ![Poza2_robotica](https://github.com/user-attachments/assets/09deec73-f920-4b7d-a5ab-bf585e970706)
+
 ![Poza3_robotica](https://github.com/user-attachments/assets/20648c3f-7c25-4dea-a3eb-631f8088b85d)
 
 ##
