@@ -23,7 +23,7 @@ bool chargingActive = false;
 
 unsigned long pressDurationStop = 0; // Temporizator pentru cât timp este apăsat butonul de stop
 
-// Funcția de inițializare a pinii-lor și setarea stării inițiale a LED-urilor
+// Funcția de inițializare a pinilor și setarea stării inițiale a LED-urilor
 void initializeSystem() {
   pinMode(led25, OUTPUT);          
   pinMode(led50, OUTPUT);          
@@ -121,7 +121,7 @@ void chargeProcess() {
     if (!chargingActive) return;
   }
 
-  stopChargingAnimation();  // După ce LED-ul 100% clipește, încheiem cu animația de stop
+  stopChargingAnimation();  
 }
 
 
@@ -130,7 +130,7 @@ void loop() {
 
   // Debounce pentru butonul de start
   if (startReading != stateStartBtn) {
-    debounceStart = millis();  // Resetăm timer-ul pentru debounce
+    debounceStart = millis();  
   }
 
   if ((millis() - debounceStart) > debounceTime) {
