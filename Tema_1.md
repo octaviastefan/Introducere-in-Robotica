@@ -1,9 +1,9 @@
 # TEMA 1
 
 <details>
-  <summary><b>Cerinte</b></summary>
+  <summary><b>Descriere</b></summary>
 
-  ## Descriere:
+  ## 
 -	In cadrul acestei teme, am simulat un sistem de încărcare a unui vehicul electric, utilizând mai multe componente (butoane, LED-uri).
   
 -	LED-ul RGB este folosit pentru a arăta stadiul încărcării (ROȘU - încărcarea se desfășoară, este activă, VERDE - stația este liberă), iar celelalte 4 pentru procentele de încărcare (25%, 50%, 75%, 100%).
