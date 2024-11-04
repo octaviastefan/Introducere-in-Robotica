@@ -40,6 +40,7 @@
 
   ## Schema electrica realizata in Wokwi
   
+![tema_2_robotica](https://github.com/user-attachments/assets/aadf964f-98e6-4d83-af0d-7aaed243044e)
 
 
   ##
