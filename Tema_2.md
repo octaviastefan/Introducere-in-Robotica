@@ -124,7 +124,8 @@
   <summary> <b> Functionalitatea montajului fizic </b> </summary>
 
   ## 
-  
+
+  https://www.youtube.com/shorts/bEbbpDkixU8
   
   
   ##
