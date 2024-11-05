@@ -110,6 +110,9 @@
   <summary> <b> Montajul implementat fizic </b> </summary>
   
   ## 
+![robotica_t2_1](https://github.com/user-attachments/assets/307d2967-c1e2-45db-a6d0-5d3412df277c)
+![robotica_t2_2](https://github.com/user-attachments/assets/b5aedca7-1326-4a7b-ae49-ed78730d2e2a)
+![robotica_t2_3](https://github.com/user-attachments/assets/32bde79d-aa3e-4cd3-abef-28735528bb72)
 
 
 
