@@ -1,3 +1,3 @@
-# Introducere-in-Robotica
+# Robotics
 
-Temele aferente cursului de Introducere in Robotica.
+In this repository, you can find a series of mini projects I created during my university robotics course.
